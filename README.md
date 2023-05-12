@@ -2,6 +2,7 @@
 
 <p> 🔭 I’m currently working on iOS development </p>
 <p> 📫 How to reach me: https://www.linkedin.com/in/ariel-ortiz-b66979186/ </p>
+<p> ⚡ Portfolio: https://arielortiz.me/ </p>
 
 
 <!--
