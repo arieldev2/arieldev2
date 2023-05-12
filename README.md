@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# 🔭 I’m currently working on iOS development
+# 📫 How to reach me: https://www.linkedin.com/in/ariel-ortiz-b66979186/
+
+
 <!--
 **arieldev2/arieldev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
