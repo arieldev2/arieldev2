@@ -1,4 +1,14 @@
-- 👋 Hi, my name is Ariel Ortiz and I’m an iOS developer.
-- 👀 I’m interested in iOS development. 
+# 👋 Hi there! I'm Ariel Ortiz
 
-- Portfolio: <a href="https://arielortizios.com/">Go to website</a>
+## 📱 iOS Developer passionate about creating exceptional mobile experiences
+
+Welcome to my GitHub profile! I'm dedicated to crafting intuitive and powerful iOS applications that make a difference in users' lives.
+
+### 🚀 About Me
+- 📱 Specialized in iOS development with Swift and SwiftUI
+- 💡 Always exploring the latest iOS technologies and best practices
+- 🎯 Focused on clean code, user experience, and performance optimization
+- 🌱 Currently diving deeper into advanced iOS architectures and frameworks
+
+### 🌐 Portfolio & Connect
+🔗 **Portfolio:** [arielortizios.com](https://arielortizios.com/)
